@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "ANTSATV1SYMBOL")(type "KiCad")(uri "${KIPRJMOD}/ANTSATV1SYMBOL.kicad_sym")(options "")(descr ""))
-)
